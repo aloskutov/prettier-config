@@ -2,6 +2,10 @@
   "name": "@aloskutov/prettier-config",
   "version": "1.0.0",
   "description": "My Prettier config",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com",
+    "access": "public"
+  },
   "main": ".prettierrc.json",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
