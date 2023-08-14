@@ -1,0 +1,23 @@
+{
+  "name": "prettier-config",
+  "version": "1.0.0",
+  "description": "My Prettier config",
+  "main": ".prettierrc.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/aloskutov/prettier-config.git"
+  },
+  "keywords": [
+    "prettier",
+    "config"
+  ],
+  "author": "Alexey Loskutov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aloskutov/prettier-config/issues"
+  },
+  "homepage": "https://github.com/aloskutov/prettier-config#readme"
+}
