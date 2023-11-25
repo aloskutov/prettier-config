@@ -6,7 +6,7 @@
     "registry": "https://npm.pkg.github.com",
     "access": "public"
   },
-  "main": ".prettierrc.json",
+  "main": "index.json",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
