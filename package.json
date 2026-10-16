@@ -1,6 +1,6 @@
 {
   "name": "@aloskutov/prettier-config",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "My Prettier config",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com",
